@@ -1,0 +1,1 @@
+// Future Azure Function placeholder for GET /photos/:id

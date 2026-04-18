@@ -1,0 +1,1 @@
+// Future Azure Function placeholder for POST /photos/:id/generate-tags
